@@ -1,0 +1,36 @@
+{
+  "name": "eyal-command-handler",
+  "version": "1.0.0",
+  "description": "eyalgreen command handler for discord bots",
+  "main": "index.js",
+  "dependencies": {
+    "better-chalk": "^1.0.0",
+    "busboy": "^1.6.0",
+    "discord-api-types": "^0.37.50",
+    "discord.js": "^14.13.0",
+    "fast-deep-equal": "^3.1.3",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "lodash.snakecase": "^4.1.1",
+    "magic-bytes.js": "^1.5.0",
+    "streamsearch": "^1.1.0",
+    "ts-mixer": "^6.0.3",
+    "tslib": "^2.6.2",
+    "undici": "^5.22.1",
+    "undici-types": "^5.25.3",
+    "ws": "^8.14.2"
+  },
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyalgreenDev/eyal-command-handler.git"
+  },
+  "author": "eyalgreen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eyalgreenDev/eyal-command-handler/issues"
+  },
+  "homepage": "https://github.com/eyalgreenDev/eyal-command-handler#readme"
+}
